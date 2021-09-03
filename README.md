@@ -22,7 +22,7 @@
     
 </div>
 
- -  👨‍💻 Some examples of my work.
+ -  👨‍💻 Some simple examples of my work.
  
  - https://landing-pagesummer.netlify.app
  - https://ip-tracer1.netlify.app
