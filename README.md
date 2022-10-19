@@ -1,7 +1,7 @@
 Hi 👋 My name is William
 ========================
 
-Web Developer
+Software Developer
 -------------
 
 * 🌍  I'm based in Brazil
