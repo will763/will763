@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66382974/210089453-446416e8-846b-45d6-8e38-c500b6cd1e0a.jpg" width="100%" height="500" />
+<img src="https://user-images.githubusercontent.com/66382974/210104806-ddd2eee7-b021-474d-930d-fb4a8fb86639.png" width="100%" height="500" />
 
 <div align="center">
   <h1>💫 About Me:</h1>
